@@ -1,0 +1,3 @@
+BACKEND_HOST: backend.rushhav.fun
+APP_LOCATION: /usr/share/nginx/html
+COMPONENT: frontend
