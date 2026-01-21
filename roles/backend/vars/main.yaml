@@ -1,4 +1,4 @@
 MYSQL_USER: root
-MYSQL_PASSWORD: ~b4E6MO~.#gnm)Mx9Y5whlF*nNr:
+MYSQL_PASSWORD: '~b4E6MO~.#gnm)Mx9Y5whlF*nNr:'
 APP_LOCATION: /app
 COMPONENT: backend
