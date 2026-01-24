@@ -29,6 +29,7 @@
 #     src: /tmp/frontend.zip
 #     dest: /usr/share/nginx/html
 #     remote_src: yes
+
 - name: include common role
   include_role:
     name: common
